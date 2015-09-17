@@ -5,6 +5,8 @@
  - Surface touch fixer quickly disables and enables your touchscreen device when you right click on the tray icon. 
  - Right click to trigger
  - Left click to exit
+
+![image](http://imgur.com/0zkFZUv.png)
  
 #Download
 ###[Download at the releases secton](https://github.com/gh123man/Surface-Touch-Fixer/releases)
