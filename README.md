@@ -8,7 +8,7 @@
 
 ![image](http://imgur.com/0zkFZUv.png)
 ###Why Right Click?
-If you experience the bug, your touch screen will ONLY right click.Because of this, it makes sense to make the trigger right click, so you can just touch the icon to fix it. 
+If you experience the bug, your touch screen will ONLY right click. Because of this, it makes sense to make the trigger right click, so you can just touch the icon to fix it. 
  
 #Download
 ###[Download at the releases secton](https://github.com/gh123man/Surface-Touch-Fixer/releases)
