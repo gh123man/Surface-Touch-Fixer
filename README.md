@@ -19,6 +19,14 @@ Packaged within the app is [DevManView.exe](http://www.nirsoft.net/utils/device_
 ###Why DevManView?
 - Becuase its license permits it to be packaged with or within another app.
 
+#Start with windows
+ While starting with Windows is not supported in the app, you can add it to startup folder as a shortcut. 
+
+Thanks to Reddit user /u/itsallg
+> - Create a shortcut of the program (right click, create a shortcut)
+> - Press (window) + R
+> - Type "shell:startup" without quotations.
+> - In the Start-up folder that appears, paste the shortcut there. And now it should run at startup 
 
 ##TODO
 - Start with windows setting
