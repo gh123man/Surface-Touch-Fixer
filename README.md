@@ -1,6 +1,6 @@
 #Surface Touch Fixer
 
-
+#This bug has been fixed in a Windows 10 update. This tool is no longer needed.
 
  - Surface touch fixer quickly disables and enables your touchscreen device when you right click on the tray icon. 
  - Right click to trigger
